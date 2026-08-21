@@ -1,28 +1,41 @@
-# 👋 Hi, I'm Abdullah
+<div align="center">
 
-### Full Stack Web Developer | React • Next.js • Node.js • MongoDB
+<img src="./assets/header.svg" width="100%" alt="Abdullah - Full Stack Web Developer"/>
 
-I build modern, responsive and user-friendly web applications with a strong
-focus on clean UI, reusable components and practical full-stack development.
+<br/>
 
-Currently improving my skills in **React, Next.js, Node.js and MongoDB** while
-building real-world projects.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Interfaces" />
+
+<br/>
+
+<a href="YOUR_WHATSAPP">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
+## 👨‍💻 About Me
 
-## 🚀 About Me
+I'm a Full Stack Web Developer focused on building modern, responsive and
+scalable web applications.
 
-- 💻 Full Stack Web Developer
-- ⚛️ Focused on React & Next.js
-- 🌐 Building REST APIs with Node.js & Express
-- 🗄️ Working with MongoDB & Firebase
-- 🎨 Interested in modern UI/UX and responsive design
-- 🔐 Learning authentication, protected routes & APIs
-- 🚀 Deploying projects with Vercel
-- 📚 Always learning and building something new
+I enjoy working with **React, Next.js, Node.js and MongoDB**, creating clean
+interfaces and connecting them with reliable backend APIs.
 
----
-
+> 🚀 Learn → Build → Break → Fix → Repeat
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
