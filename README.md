@@ -1,18 +1,103 @@
-# 💫 About Me:
-### 🚀 About Me :<br><br>- 🔭 I’m currently working on building scalable full-stack web applications using the MERN stack.<br>- 👯 I’m looking to collaborate on open-source projects, React components, and Node.js backends.<br>- 🤝 I’m looking for help with mastering system design, cloud deployment (AWS/Docker), and advanced database optimization.<br>- 🌱 I’m currently learning Next.js, TypeScript, and clean code architecture.<br>- 💬 Ask me about React, Express routes, MongoDB aggregation pipelines, or JavaScript quirks.<br>- ⚡ Fun fact: I spend 20 minutes writing code and 2 hours naming a single variable.<br>
+# 👋 Hi, I'm Abdullah
 
+### Full Stack Web Developer | React • Next.js • Node.js • MongoDB
 
-## 🌐 Socials:
+I build modern, responsive and user-friendly web applications with a strong
+focus on clean UI, reusable components and practical full-stack development.
 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Abdullah8920&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Abdullah8920&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abdullah8920&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Currently improving my skills in **React, Next.js, Node.js and MongoDB** while
+building real-world projects.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Abdullah8920&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 💻 Full Stack Web Developer
+- ⚛️ Focused on React & Next.js
+- 🌐 Building REST APIs with Node.js & Express
+- 🗄️ Working with MongoDB & Firebase
+- 🎨 Interested in modern UI/UX and responsive design
+- 🔐 Learning authentication, protected routes & APIs
+- 🚀 Deploying projects with Vercel
+- 📚 Always learning and building something new
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
+</p>
+
+### 🗄️ Database & Services
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</p>
+
+### 🎨 UI & Styling
+
+<p>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Responsive_Design-111111?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abdullah8920&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah8920&layout=compact&theme=transparent&hide_border=true" width="42%"/>
+
+</div>
+
+---
+
+## 🔥 What I Build
+
+```text
+Frontend
+   ↓
+React / Next.js
+   ↓
+REST APIs
+   ↓
+Node.js / Express
+   ↓
+MongoDB / Firebase
+   ↓
+Vercel Deployment
