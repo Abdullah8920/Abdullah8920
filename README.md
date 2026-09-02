@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="mailto:abdullahansari7463@gmail.com">
+<a href="abdullahansari7463@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/abdullah-ansari-2820452b0/)">
+<a href="(https://www.linkedin.com/in/abdullah-ansari-2820452b0/)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
